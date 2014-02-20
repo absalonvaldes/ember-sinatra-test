@@ -1,0 +1,20 @@
+.ember-application {
+    border: 1px solid silver;
+    padding: 20px;
+    width: 800px;
+    margin: 10px auto
+}
+
+ul.posts {
+    list-style-type: none;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+form {
+    margin-top: 10px
+}
+
+input[type='text'], textarea {
+    margin-bottom: 10px;
+}
